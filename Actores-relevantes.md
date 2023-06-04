@@ -1,0 +1,5 @@
+- Paciente
+- Médico
+- Especialista (Enfermera)
+- Auxiliar 
+- Administrador

@@ -1,0 +1,2 @@
+- El objetivo de este proyecto es agilizar el proceso de atención de los pacientes en el SAPU, implementando un sistema donde el personal pueda crear, complementar, editar y almacenar de manera digital la ficha de atención del paciente, para finalmente imprimirla y darle una copia física al paciente.
+- El criterio que usaremos para determinar el éxito del proyecto es, lograr hacer el trabajo más fácil al personal de atención del SAPU y reducir el tiempo de atención al paciente.
